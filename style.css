@@ -99,6 +99,7 @@ body
 .card-kira
 {
     background: var(--white);
+    
 }
 .card-jeanette
 {
@@ -145,7 +146,7 @@ span
 .card-kira p
 {
     color: var(--faintdark);
-    line-height: 1.25rem;
+    line-height: 1.9rem;
 }
 
 .card-jeanette h4
